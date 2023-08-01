@@ -1,2 +1,2 @@
 # swolegaming
-main website for swolechugaming.com
+main website for swolegaming.net
