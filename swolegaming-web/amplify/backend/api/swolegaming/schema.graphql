@@ -1,0 +1,10 @@
+type MapRotation @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  MapName: String
+  MapSource: AWSURL
+  MapAuthor: String
+  ImgSRC: AWSURL
+  LastUpdated: String
+  UGC: Int
+}
+ 
