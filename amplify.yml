@@ -3,7 +3,7 @@ frontend:
   phases:
     preBuild:
         commands:
-          - cd swolegaming-web
+          
           - npm ci
     build:
         commands:
